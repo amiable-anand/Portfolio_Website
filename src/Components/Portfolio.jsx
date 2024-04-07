@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/drop.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Here, background image of the drop is shown.";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "My blog website",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This is my personal blog website where I write about my experience and learning",
+    url: "https://github.com/amiable-anand/Spotify-Clone.git",
   },
   {
-    title: "Web Development for Beginners",
+    title: "My LinkedIn Page",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Here is my LinkedIn page where I share my experience and connect with other professionals.",
+    url: "https://www.linkedin.com/in/amiable-anand/",
   },
   {
-    title: "My Resume Site",
+    title: "My InstagraM Page",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Here is my Instagram page where I connect with people across the globe",
+    url: "https://www.instagram.com/amiable_anand/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "My X Account",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "This is my X account where I share thoughts and ideas with the world.",
+    url: "https://twitter.com/Amiable_Anand/",
   },
 ];
 
