@@ -26,8 +26,6 @@ Project Showcase: Insight into Anand’s work and capabilities
 🛠️ Built With
 Frontend: HTML5, CSS3, JavaScript
 
-Framework/Library: [Add if applicable, e.g., React, Tailwind CSS]
-
 Deployment: Azure Static Web Apps
 
 🔗 Social Media
